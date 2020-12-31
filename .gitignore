@@ -189,3 +189,5 @@ jampgamex86.dll
 uix86.dll
 *.idb
 *.pk3
+source/.vs/OpenRP/v16/Browse.VC.db
+source/.vs/OpenRP/v16/Solution.VC.db
